@@ -1,0 +1,37 @@
+.main {
+    border: solid 2px black;
+    margin: 40px;
+}
+
+body {
+    background-color: lightblue;
+    
+}
+
+h2 {
+    color: lightcoral;
+
+}
+
+.tabela {
+    text-align: center;
+
+
+}
+
+th, td {
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn {
+    text-decoration: nome;
+    margin: 10px;
+    background-color: #6558F5;
+    color: lightcoral;
+    font-size: 15px;
+}
+
+body {
+    margin: 10px;
+}
