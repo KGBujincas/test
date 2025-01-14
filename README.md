@@ -5,6 +5,7 @@
 # 2 page
 # ausencia de funções e conexões 
 # copia e cola para xampp após criar htdocs e criar pasta crud nessa ordem - xampp/htdocs/crud
+# banco criado com wenbench
 
 
 
